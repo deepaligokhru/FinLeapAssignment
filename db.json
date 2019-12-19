@@ -1,13 +1,13 @@
 {
   "payments": [
-    { "id": 1, "paymentDate": "17/06/2019", "amount": 100, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 2, "paymentDate": "17/06/2019", "amount": 200, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 3, "paymentDate": "18/06/2019", "amount": 300, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 4, "paymentDate": "18/06/2019", "amount": 150, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 5, "paymentDate": "18/06/2019", "amount": 250, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 6, "paymentDate": "18/06/2019", "amount": 450, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 7, "paymentDate": "19/06/2019", "amount": 650, customerAccountNumber: 'XXXXXXXAAAA123' },
-    { "id": 8, "paymentDate": "19/06/2019", "amount": 750, customerAccountNumber: 'XXXXXXXAAAA123' },
+    { "id": 1, "paymentDate": "17/06/2019", "amount": 100, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 2, "paymentDate": "17/06/2019", "amount": 200, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 3, "paymentDate": "18/06/2019", "amount": 300, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 4, "paymentDate": "18/06/2019", "amount": 150, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 5, "paymentDate": "18/06/2019", "amount": 250, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 6, "paymentDate": "18/06/2019", "amount": 450, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 7, "paymentDate": "19/06/2019", "amount": 650, "customerAccountNumber": 'XXXXXXXAAAA123' },
+    { "id": 8, "paymentDate": "19/06/2019", "amount": 750, "customerAccountNumber": 'XXXXXXXAAAA123' },
   ],
   "profile": {
     "name": "typicode"
